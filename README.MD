@@ -1,10 +1,10 @@
 # Artificial Neural Networks & Genetic Algorithms
 
 ## Sources 
-http://www.ai-junkie.com/ga/intro/gat1.html
-http://www.ai-junkie.com/ann/evolved/nnt1.html
+http://www.ai-junkie.com/ga/intro/gat1.html  
+http://www.ai-junkie.com/ann/evolved/nnt1.html  
 
-Code adjusted from source code found from sites above. CURRENTLY UNTESTED.
+Code adjusted from source code found from sites above. **CURRENTLY UNTESTED**.
 Testing challenge to be devised.
 ---
 ## GeneticAlgorithm.java
