@@ -9,11 +9,12 @@ Testing challenge to be devised.
 ---
 ## GeneticAlgorithm.java
 
-Consists of two classes:
+Consists of two classes:  
 	1. **Genome**: Basic data construct for genetic algorithms. Inner Class of GeneticAlgorithm. Consists of:
 		..* A *final double* fitness value.
 		..* A *Vector<Double>* containing weights for each input.
 	2. **GeneticAlgorithm**: Contains functionality for implementation of a genetic algorithm.
+	
 ---
 ## NeuralNet.java
 
